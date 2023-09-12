@@ -9,4 +9,4 @@ Making a tutorial for class 03
 - git commit -m "MESSAGE_HERE" (This commits the changes to GitHub with a message attached, it just needs to be uploaded to Github now)
 
 **Push**
-- 
+- git push (This now applies all the commits onto GitHub)
